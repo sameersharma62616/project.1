@@ -1,0 +1,121 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.logo{
+	height: 20px;
+}
+.menu-icon{
+	height: 15px;
+}
+.navbar{
+	display: flex;
+	padding-left: 56px;
+	margin-top: 20px;
+}
+a{
+	text-decoration: none;
+	color: black;
+	font-size: 8px;
+	margin-right: 25px;
+}
+a:hover{
+	color: red;
+}
+.game{
+	color: red;
+}
+.game:hover{
+	color: black;
+}
+.nav{
+	padding-left: 500px;
+	position: relative;
+	bottom: 2px;
+}
+.button{
+	background: linear-gradient(to right, #fb5283, #ff3527);
+	border: 0px;
+	height: 30px;
+	font-size: 10px;
+	padding-right: 8px;
+	padding-left: 7px;
+	color: white;
+	cursor: pointer;
+	border-radius: 6px;
+}
+.row{
+	display: flex;
+	justify-content: space-between;
+	margin: 51px;
+	padding-top: 35px;
+	margin-left: 90px;
+}
+.ps4{
+	font-size: 35px;
+}
+.wireless{
+	font-size: 15px;
+	font-family: sans-serif;
+	padding-top: 5px;
+}
+.compatible{
+	font-size: 10px;
+	padding-top: 10px;
+}
+.no-32{
+	padding-top: 100px;
+}
+.line{
+	background: linear-gradient(to bottom, #fb5283, #ff3527);
+	height: 256px;
+	width: 7px;
+	position: relative;
+	bottom: 262px;
+	right: 35px;
+}
+.controler-background{
+	background: linear-gradient(to bottom, #fb5283, #ff3527);
+	height: 350px;
+	width: 390px;
+	position: relative;
+	bottom: 620px;
+	left: 600px;
+	border-radius: 10px;
+}
+.controllerImg{
+    height: 300px;
+	position: relative;
+	bottom: 950px;
+	left: 360px;	
+}
+.add{
+	height: 40px;
+	margin: 32%;
+	padding-left: 110px;
+}
+.cart{
+	color: white;
+    position: relative;
+    left: 228px;
+    bottom: 127px;
+    font-size: 10px;
+}
+.fb{
+	height: 15px;
+	position: relative;
+	bottom: 360px;
+	padding-right: 20px;
+}
+.tw{
+    height: 15px;
+	position: relative;
+	bottom: 360px;
+	padding-right: 20px;
+}
+.ig{
+   height: 15px;
+	position: relative;
+	bottom: 360px;
+}
